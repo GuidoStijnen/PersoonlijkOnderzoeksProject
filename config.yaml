@@ -1,0 +1,5 @@
+hostname: vintechsql.mysql.database.azure.com
+username: VintechAdmin
+password: Proftaak!
+database: management device
+port: 3306
